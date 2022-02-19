@@ -1,0 +1,34 @@
+@import url(css/color.css);
+
+.btn {
+  width: 8rem;
+  height: 2rem;
+  border: none;
+  border-radius: 1rem;
+  color: var(--colorWhite);
+  cursor: pointer;
+}
+
+.btnPrimary {
+  background-color: var(--colorDarkGreen);
+}
+
+.btnRed {
+  background-color: rgb(211, 52, 52);
+}
+
+.btnGreen {
+  background-color: rgb(53, 179, 128);
+}
+
+.btnBlue {
+  background-color: rgb(88, 198, 220);
+}
+
+.noOutline {
+  outline: none;
+}
+
+.noBorder {
+  border: none;
+}

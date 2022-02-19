@@ -1,0 +1,51 @@
+@import url(../../css/reset.css);
+@import url(../../css/main.css);
+
+.container {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+nav {
+  display: flex;
+  /* width: 100%; */
+  justify-content: space-between;
+  text-align: center;
+  color: #414141;
+  align-items: center;
+  padding: 1rem 2rem;
+}
+
+.navitem {
+  text-decoration: none;
+  color: #ffe6e6;
+  /* color: var(--primaryColor); */
+  margin: 0.8rem;
+  font-size: 24px;
+  /* padding: 0.5rem; */
+}
+
+.noDecoration {
+  text-decoration: none;
+}
+
+.rulesContainer {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+
+  padding: 5rem;
+  color: #ffe6e6;
+}
+
+.react {
+  height: 200px;
+  width: 250px;
+}
+
+.html {
+  height: 200px;
+  width: 250px;
+}
