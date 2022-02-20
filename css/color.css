@@ -1,0 +1,11 @@
+:root {
+  --primaryColor: #414141;
+  --secondaryColor: #2b7a78;
+  --lightGrey: #dddddd;
+  --colorDarkGreen: #17252a;
+  --colorWhite: #ffffff;
+  --colorGrey: #def2f1;
+  --colorOffline: rgb(209, 0, 0);
+  --colorOnline: rgb(22, 150, 0);
+  --colorRed: rgb(174, 7, 7);
+}

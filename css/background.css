@@ -1,0 +1,34 @@
+/* .colorPrimary {
+  background-color: #e27d60;
+} */
+
+.colorPrimary {
+  background-color: #7dc3ae;
+}
+
+.bgOrange {
+  background-color: rgb(255, 228, 177);
+}
+
+.bgGrey {
+  background-color: rgb(151, 151, 151);
+}
+.bgBlack {
+  background-color: #050505;
+}
+
+.bgTransparent {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.bgDarkGray {
+  background-color: rgba(38, 38, 38, 0.5);
+}
+
+.bgBlue2 {
+  background-color: rgb(156, 42, 160);
+}
+
+.colorBeige {
+  color: #ffe6e6;
+}
